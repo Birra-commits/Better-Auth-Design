@@ -9,4 +9,4 @@ This project is designed using Figma. You can view the design file here:
 *******
 *******
  Shout out to
-[View](https://github.com/Manuel-heav/built).
+[Better-auth](https://github.com/Manuel-heav/built).
